@@ -1,5 +1,7 @@
 # minimini-redis
 
+[日本語 / Japanese](ja.md)
+
 ### Purpose
 
 This repository is a personal study project for learning by reimplementing `mini-redis`, the sample project from `tokio`.
